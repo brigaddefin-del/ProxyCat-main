@@ -113,7 +113,7 @@ C:\Users\用户名\Desktop\ProxyCat-main\ProxyCat-main>python ProxyCat.py
 |  [赞助榜单](https://github.com/honmashironeko/Thanks-for-sponsorship)   |     您的每一份赞助都是作者源源不断的动力！      |      (´∀｀)♡       |
 
 ---
-![赞助](./assets/赞助.png)
+
 
 ## 代理推荐
 
